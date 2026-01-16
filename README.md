@@ -1,1 +1,5 @@
-# Aircraft-Project
+# Background
+
+## Since one of my friends trying to make an aircraft model from scratch, this will be the code that make it work
+
+## I'll store the codes here and make it open-source
