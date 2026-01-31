@@ -296,6 +296,8 @@ int main() {
   try {
     AxialCompressor compressor;
 
+    // Here to transfer the data
+
     // Set gas properties (example: air at sea level)
     compressor.setGasProperties(1.4, 287.0);
 
